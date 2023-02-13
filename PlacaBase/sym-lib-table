@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name HMIconSTM32)(type Legacy)(uri ${KIPRJMOD}/libraries/HMIconSTM32.lib)(options "")(descr ""))
+)

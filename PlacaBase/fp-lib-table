@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name HMIconSTM32)(type KiCad)(uri ${KIPRJMOD}/footprints/HMIconSTM32.pretty)(options "")(descr ""))
+  (lib (name LogoUTN)(type KiCad)(uri ${KIPRJMOD}/footprints/LogoUTN.pretty)(options "")(descr ""))
+)
